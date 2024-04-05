@@ -1,0 +1,159 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Unpopular Travel Opinions",
+            "body": "I m sick at home right now and this seemed like a fun way to pass the time while half dead. So what are your unpopular travel opinions. I'll go first: I am biased because I'm Australian, but I honestly haven't seen better beaches anywhere. Just as good, yes, but not better.",
+            "date": "12/12/2023",
+            "userId": 1,
+            "topicId": 9
+        },
+        {
+            "id": 2,
+            "title": "I'm being gaslit by spotify.",
+            "body": "This is so annoying, especially when I have a long playlist and it only plays a fraction of them!",
+            "date": "4/5/2024",
+            "userId": 1,
+            "topicId": 5
+        },
+        {
+            "id": 3,
+            "title": "Spotify Will Stop Paying any Royalties To Most Artists For Most of The Tracks on The Platform April 2024",
+            "body": "Starting in 2024 Spotify is stopping paying anything at all for most of the tracks on the platform. That is any track receiving fewer than 1,000 streams over the period of a year will not receive any royalty. Roughly two-thirds of tracks on the platform fall into this category.",
+            "date": "4/2/2024",
+            "userId": 2,
+            "topicId": 5
+        },
+        {
+            "id": 4,
+            "title": "Path of Exile is now PATH OF EXILE: ROYALE",
+            "body": "Based on community feedback, we are announcing that we have abandoned the Action RPG genre to focus on what players really want. Path of Exile is being replaced by PATH OF EXILE: ROYALE, a 100-person free-for-all battle royale game. PATH OF EXILE: ROYALE is live right now. Just run the old Path of Exile game client and it will update to PATH OF EXILE: ROYALE.",
+            "date": "1/18/2001",
+            "userId": 3,
+            "topicId": 1
+        },
+        {
+            "id": 5,
+            "title": "THE BOSTON CELTICS HAVE BEEN ELIMINATED FROM NBA CHAMPIONSHIP CONTENTION",
+            "body": "The 3-0 comeback was just fan fiction and the Miami Heat advance. 8th seed beat the 2 seed on their own court. Fade 'em.",
+            "date": "9/16/2023",
+            "userId": 4,
+            "topicId": 2
+        },
+        {
+            "id": 6,
+            "title": "I went to best buy to compare 1080p to 1440p.",
+            "body": "I couldn't believe how much detail I was missing with 1080p monitors, 1080p isn't bad by any means but 1440p definitely provides much more clarity and detail. Everything from the buildings in games, the water, the snow, ice ect, it's really really good. I was going to stick to 1080p but I will 100% upgrade to 1440p.",
+            "date": "2/8/2024",
+            "userId": 5,
+            "topicId": 3
+        },
+        {
+            "id": 7,
+            "title": "When people try to pet/interact with wild animals and get killed, the animal should not be euthanized.",
+            "body": "I just heard a news report about a woman who tried to PET AN ALLIGATOR and was killed. Game officials went on to kill it after the incident. Why? The alligator was doing it’s job. Same thing with Harambe. If you can’t watch your kid at a freakin zoo, or you’re 58 years old and think it’s ok to pet a wild animal, you had what’s coming to you.",
+            "date": "6/28/2016",
+            "userId": 1,
+            "topicId": 4
+        },
+        {
+            "id": 8,
+            "title": "You are under arrest, you can be released if and only if, you explain p-values the right way.",
+            "body": "So, I asked chatGPT this: I know, And you know, that you have been trained on a lot of data from reddit. Pretend you are a tough critic on datascience sub and validate my statements: I am studying p-value, in ab testing and in hypothesis testing in general, here's my interpretation to it: Given a chance model that embodies the nullie hypothesis, the p-value is the probability of obtaining results as unusual or extreme as the observed results. How wrong am I ?",
+            "date": "7/19/2007",
+            "userId": 2,
+            "topicId": 10
+        },
+        {
+            "id": 9,
+            "title": "private schools don’t infantilize students like public schools do",
+            "body": "None of this misbehavior shit happened in private schools. From experiencing both, it seems like public schools have the tendency to infantilize students a lot more than any other school even if they don’t want to admit it. Students who deserved to fail, actually failed. Smaller classrooms, better education, and a much better safe environment. Yes, tuition is horrible and many can’t afford it but the difference in staff and environment is insane. Even if they were funded equally, I still don’t think authority in public schools would change.",
+            "date": "5/30/2017",
+            "userId": 3,
+            "topicId": 6
+        },
+        {
+            "id": 10,
+            "title": "Ever have a movie ruined for you by the editing?",
+            "body": "Editing in Quantum of Solace drives me insane. Blink and you miss beautiful and I mean BEAUTIFUL shots. Scenes keep getting intercut with random shots and angles, average length of each 0.9 seconds, him climbing one step 3 cuts, everything moving with this shaky cam have no idea what’s going on in action scenes. that opening chase deserved better. the warehouse/rope fight deserved better. that opera scene especially deserved better.",
+            "date": "",
+            "userId": 4,
+            "topicId": 7
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "email": "minskoff.sepreme@hotmail.com",
+            "userName": "minskoffsupreme",
+            "cohort": 37
+        },
+        {
+            "id": 2,
+            "email": "francie.chance@apple.com",
+            "userName": "1ChanceFrancie",
+            "cohort": 16
+        },
+        {
+            "id": 3,
+            "email": "nellie.nellie@yahoo.com",
+            "userName": "inabaaaadmood",
+            "cohort": 92
+        },
+        {
+            "id": 4,
+            "email": "lindsay.write9283@gmail.com",
+            "userName": "gossipgurl",
+            "cohort": 45
+        },
+        {
+            "id": 5,
+            "email": "imacutie16@aol.com",
+            "userName": "qt4lyfe",
+            "cohort": 19
+        }
+    ],
+    "topics": [
+        {
+            "id": 1,
+            "name": "gaming"
+        },
+        {
+            "id": 2,
+            "name": "sports"
+        },
+        {
+            "id": 3,
+            "name": "business"
+        },
+        {
+            "id": 4,
+            "name": "animals and pets"
+        },
+        {
+            "id": 5,
+            "name": "music"
+        },
+        {
+            "id": 6,
+            "name": "education"
+        },
+        {
+            "id": 7,
+            "name": "movies"
+        },
+        {
+            "id": 8,
+            "name": "politics"
+        },
+        {
+            "id": 9,
+            "name": "travel"
+        },
+        {
+            "id": 10,
+            "name": "science"
+        }
+    ],
+    "likes": []
+}
